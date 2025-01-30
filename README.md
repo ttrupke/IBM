@@ -1,2 +1,2 @@
 # IBM
-IBM Data Analytics course
+IBM Data Analytics course projects
